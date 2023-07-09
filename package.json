@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "Manuel Cabos",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
