@@ -1,0 +1,14 @@
+{
+  "name": "js-async",
+  "version": "1.0.0",
+  "description": "Asynchronism with JavaScript course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Manuel Cabos",
+  "license": "MIT"
+}
